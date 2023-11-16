@@ -12,6 +12,6 @@
     "@vitejs/plugin-legacy": "^5.0.0",
     "sass": "^1.62.1",
     "typescript": "^5.0.2",
-    "vite": "^4.3.2"
+    "vite": "^5.0.0"
   }
 }
