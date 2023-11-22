@@ -1145,9 +1145,9 @@
   integrity sha512-8kdW+brNhI/NzJ4fxDufuJUjepzINqJKLGHuxyAtpPG9bMbn8P5mtaCcbOm0EzLJ+atg+kF9dwg8jpclkVqx5w==
 
 "@vitejs/plugin-legacy@^5.0.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-legacy/-/plugin-legacy-5.1.0.tgz#7eff3ead14b773c1bbc14d6ea60f2642bba20026"
-  integrity sha512-K8Hs7IUJ8fqi+9aOXYuQoJamdr7oXEowWlR8eys1bNZGrY8VmJ9nzBo+uK2/1P7SjH0KMNHl5u7ZHqbbUMH4EQ==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-legacy/-/plugin-legacy-5.2.0.tgz#2f5b26d241d5e38d18b4ceb051cc780e7ab8ded1"
+  integrity sha512-FGpxQCgyI8SHA/TkFH5vfBManyc6GYkCoYtmom924c7sKObnBE7q543RQuKK46duI4j31Nv1wg4GRNtCfsGpGQ==
   dependencies:
     "@babel/core" "^7.23.3"
     "@babel/preset-env" "^7.23.3"
@@ -1219,9 +1219,9 @@ browserslist@^4.21.9, browserslist@^4.22.1:
     update-browserslist-db "^1.0.13"
 
 caniuse-lite@^1.0.30001541:
-  version "1.0.30001563"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001563.tgz#aa68a64188903e98f36eb9c56e48fba0c1fe2a32"
-  integrity sha512-na2WUmOxnwIZtwnFI2CZ/3er0wdNzU7hN+cPYz/z2ajHThnkWjNBOpEPP4n+4r2WPM847JaMotaJE3bnfzjyKw==
+  version "1.0.30001564"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001564.tgz#eaa8bbc58c0cbccdcb7b41186df39dd2ba591889"
+  integrity sha512-DqAOf+rhof+6GVx1y+xzbFPeOumfQnhYzVnZD6LAXijR77yPtm9mfOcqOnT3mpnJiZVT+kwLAFnRlZcIz+c6bg==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1284,9 +1284,9 @@ debug@^4.1.0, debug@^4.1.1:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.535:
-  version "1.4.589"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.589.tgz#3fc83c284ed8f1f58e0cb3c664c8ebcb4d0b42fb"
-  integrity sha512-zF6y5v/YfoFIgwf2dDfAqVlPPsyQeWNpEWXbAlDUS8Ax4Z2VoiiZpAPC0Jm9hXEkJm2vIZpwB6rc4KnLTQffbQ==
+  version "1.4.590"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.590.tgz#85a428fbabb77265a4804040837ed4f2538e3300"
+  integrity sha512-hohItzsQcG7/FBsviCYMtQwUSWvVF7NVqPOnJCErWsAshsP/CR2LAXdmq276RbESNdhxiAq5/vRo1g2pxGXVww==
 
 esbuild@^0.19.3:
   version "0.19.7"
